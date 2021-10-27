@@ -1,3 +1,3 @@
 # Asteroids!!
 
-<img/>
+<img src='gameplay.png'/>
